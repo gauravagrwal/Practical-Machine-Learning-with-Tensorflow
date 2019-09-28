@@ -1,20 +1,24 @@
 # Practical-Machine-Learning-with-Tensorflow
-TensorFlow API Documentation
-TensorFlow has APIs available in several languages both for constructing and executing a TensorFlow graph. The Python API is at present the most complete and the easiest to use, but other language APIs may be easier to integrate into projects and may offer some performance advantages in graph execution.
+<div align="center">
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png">
+</div>
 
-A word of caution: the APIs in languages other than Python are not yet covered by the API stability promises.
 
-Python
-JavaScript
-C++
-Java
-Go
-Swift (Early Release)
-We encourage the community to develop and maintain support for other languages with the approach recommended by the TensorFlow maintainers. For example, see the bindings for:
+[TensorFlow](https://www.tensorflow.org/) is an end-to-end open source platform
+for machine learning. It has a comprehensive, flexible ecosystem of
+[tools](https://www.tensorflow.org/resources/tools),
+[libraries](https://www.tensorflow.org/resources/libraries-extensions), and
+[community](https://www.tensorflow.org/community) resources that lets
+researchers push the state-of-the-art in ML and developers easily build and
+deploy ML powered applications.
 
-C#: TensorFlowSharp and TensorFlow.NET,
-Haskell,
-Julia,
-Ruby,
-Rust, and
-Scala.
+TensorFlow was originally developed by researchers and engineers working on the
+Google Brain team within Google's Machine Intelligence Research organization for
+the purposes of conducting machine learning and deep neural networks research.
+The system is general enough to be applicable in a wide variety of other
+domains, as well.
+
+TensorFlow provides stable [Python](https://www.tensorflow.org/api_docs/python)
+and [C++](https://www.tensorflow.org/api_docs/cc) APIs, as well as
+non-guaranteed backwards compatible API for
+[other languages](https://www.tensorflow.org/api_docs).
